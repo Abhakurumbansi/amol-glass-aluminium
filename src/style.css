@@ -333,7 +333,7 @@ button, input, select, textarea {
   position: relative;
   height: 85vh;
   min-height: 550px;
-  background: url('src/assets/hero_bg.png') no-repeat center center/cover;
+  background: url('assets/hero_bg.png') no-repeat center center/cover;
   display: flex;
   align-items: center;
   margin-top: var(--header-height);
@@ -713,7 +713,7 @@ button, input, select, textarea {
 .services-hero-banner {
   position: relative;
   padding: 140px 0 100px;
-  background: url('src/assets/hero_bg.png') no-repeat center center/cover;
+  background: url('assets/hero_bg.png') no-repeat center center/cover;
   color: var(--white);
 }
 
@@ -922,7 +922,7 @@ button, input, select, textarea {
 .portfolio-hero {
   position: relative;
   padding: 140px 0 100px;
-  background: url('src/assets/hero_bg.png') no-repeat center center/cover;
+  background: url('assets/hero_bg.png') no-repeat center center/cover;
   color: var(--white);
 }
 
@@ -1148,7 +1148,7 @@ button, input, select, textarea {
 .contact-hero {
   position: relative;
   padding: 140px 0 100px;
-  background: url('src/assets/hero_bg.png') no-repeat center center/cover;
+  background: url('assets/hero_bg.png') no-repeat center center/cover;
   color: var(--white);
 }
 
